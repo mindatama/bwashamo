@@ -59,6 +59,10 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## description code
+
+(indonesian) kode ini adalah media pembelajaran pada website buildwithangga, pada kelas building e-commerce and chat apps. laravel ini adalah media yang mem-provide backend develop. penggunaan front end menggunakan flutter. aplikasi ini berbentuk mobile dan website yang di provide oleh laravel ini. semoga dengan mempelajari kelas ini dapat menambah pengetahuan kita semua mengenai logika bahasa pemrograman dan memberikan dampak positif bagi khalayak umum. terimakasih, salam. Wijatmoko Mindatama 29tahun
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
