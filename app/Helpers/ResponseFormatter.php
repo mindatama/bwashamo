@@ -22,7 +22,7 @@ class ResponseFormatter
     ];
 
     /**
-     * Give success response.
+     * Give success response. aja
      */
     public static function success($data = null, $message = null)
     {
